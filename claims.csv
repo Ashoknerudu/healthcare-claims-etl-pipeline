@@ -1,0 +1,6 @@
+claim_id,patient_id,provider_id,claim_amount,approved_amount,claim_status,service_date
+1001,P001,PR01,250,200,Approved,2026-01-01
+1002,P002,PR02,500,0,Denied,2026-01-02
+1003,P003,PR01,300,250,Approved,2026-01-03
+1004,P004,PR03,400,350,Approved,2026-01-04
+1005,P005,PR02,600,0,Denied,2026-01-05
